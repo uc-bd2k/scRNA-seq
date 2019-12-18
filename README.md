@@ -1,1 +1,1 @@
-# scRNA_seq
+# scRNA-seq
